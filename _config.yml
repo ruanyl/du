@@ -10,6 +10,6 @@ postDir: _posts
 outputDir: dist
 
 #cname
-cname: geekr.js.org
+cname: du.js.org
 
 pageSize: 10
